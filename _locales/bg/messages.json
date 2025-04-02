@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Chrome разширение за страничен панел ChatGPT с AI чат",
+      "message": "Бърз достъп до ChatGPT за всички задачи. Бърз AI чат без API. Chrome разширение, OpenAI."
+   },
+   "extName": {
+      "description": "Chrome разширение за интеграция на страничен панел с ChatGPT",
+      "message": "Страничен панел за ChatGPT - Безплатен достъп"
+   }
+}

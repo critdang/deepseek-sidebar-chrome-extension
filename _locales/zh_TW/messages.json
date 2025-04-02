@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "ChatGPT側欄Chrome擴充功能",
+      "message": "快速訪問ChatGPT處理所有任務。無需API的快速AI聊天。Chrome擴充功能，OpenAI支援的側欄。"
+   },
+   "extName": {
+      "description": "ChatGPT側欄整合的Chrome擴充功能",
+      "message": "ChatGPT側欄 - 免費訪問"
+   }
+}

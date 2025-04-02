@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "带有AI聊天功能的ChatGPT侧边栏Chrome扩展程序",
+      "message": "快速访问ChatGPT处理所有任务。无需API的快速AI聊天。Chrome扩展程序，OpenAI支持的侧边栏。"
+   },
+   "extName": {
+      "description": "ChatGPT侧边栏集成的Chrome扩展程序",
+      "message": "ChatGPT侧边栏 - 免费访问"
+   }
+}

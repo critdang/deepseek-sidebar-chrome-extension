@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Extensión Chrome para barra lateral ChatGPT con chat de IA",
+      "message": "Acceso rápido a ChatGPT para todas las tareas. Chat de IA rápido sin API en tu barra lateral. Extensión Chrome, OpenAI."
+   },
+   "extName": {
+      "description": "Extensión de Chrome para integración de barra lateral ChatGPT",
+      "message": "Barra lateral para ChatGPT - Acceso gratuito"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Chrome-Erweiterung für ChatGPT Seitenleiste mit AI-Chat",
+      "message": "Schneller Zugriff auf ChatGPT für alle Aufgaben. Schneller AI-Chat ohne API in der Seitenleiste. Chrome-Erweiterung, OpenAI."
+   },
+   "extName": {
+      "description": "Chrome-Erweiterung für ChatGPT Seitenleisten-Integration",
+      "message": "Seitenleiste für ChatGPT - Kostenloser Zugang"
+   }
+}

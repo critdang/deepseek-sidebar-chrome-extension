@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "AI 채팅 기능이 있는 ChatGPT 사이드바 Chrome 확장 프로그램",
+      "message": "모든 작업을 위한 ChatGPT 빠른 액세스. API 없는 빠른 AI 채팅. Chrome 확장 프로그램, OpenAI 지원 사이드바."
+   },
+   "extName": {
+      "description": "ChatGPT 사이드바 통합을 위한 Chrome 확장 프로그램",
+      "message": "ChatGPT 사이드바 - 무료 액세스"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Chrome extension for Deepseek sidebar with AI chat",
+      "message": "Quick access to Deepseek for all tasks. Fast AI chat in your sidebar."
+   },
+   "extName": {
+      "description": "Chrome extension for Deepseek sidebar integration",
+      "message": "Deepseek Sidebar"
+   }
+}

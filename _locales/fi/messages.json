@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Chrome-laajennus ChatGPT sivupalkkiin AI-chatilla",
+      "message": "Nopea pääsy ChatGPT:hen kaikkia tehtäviä varten. Nopea AI-chat ilman APIa. Chrome-laajennus, OpenAI."
+   },
+   "extName": {
+      "description": "Chrome-laajennus ChatGPT sivupalkin integraatioon",
+      "message": "Sivupalkki ChatGPT:lle - Ilmainen pääsy"
+   }
+}

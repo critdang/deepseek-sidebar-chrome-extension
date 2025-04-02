@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "ส่วนขยาย Chrome สำหรับแถบข้าง ChatGPT พร้อมแชท AI",
+      "message": "เข้าถึง ChatGPT อย่างรวดเร็วสำหรับทุกงาน แชท AI เร็วโดยไม่ต้องใช้ API ส่วนขยาย Chrome, OpenAI"
+   },
+   "extName": {
+      "description": "ส่วนขยาย Chrome สำหรับแถบข้าง ChatGPT",
+      "message": "แถบข้างสำหรับ ChatGPT - เข้าถึงฟรี"
+   }
+}

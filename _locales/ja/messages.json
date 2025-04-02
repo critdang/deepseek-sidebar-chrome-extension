@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "AIチャット機能搭載のChatGPTサイドバー用Chrome拡張機能",
+      "message": "全タスクにChatGPTへの迅速アクセス。APIなしの高速AIチャット。Chrome拡張機能、OpenAI対応のサイドバー。"
+   },
+   "extName": {
+      "description": "ChatGPTサイドバー統合用Chrome拡張機能",
+      "message": "ChatGPT用サイドバー - 無料アクセス"
+   }
+}

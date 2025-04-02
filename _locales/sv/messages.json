@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Chrome-tillägg för ChatGPT sidofält med AI-chatt",
+      "message": "Snabb åtkomst till ChatGPT för alla uppgifter. Snabb AI-chatt utan API. Chrome-tillägg, OpenAI."
+   },
+   "extName": {
+      "description": "Chrome-tillägg för ChatGPT sidofältsintegration",
+      "message": "Sidofält för ChatGPT - Gratis åtkomst"
+   }
+}

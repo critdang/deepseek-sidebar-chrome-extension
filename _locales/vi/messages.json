@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Tiện ích Chrome cho ChatGPT",
+      "message": "Truy cập nhanh ChatGPT cho mọi tác vụ. Chat AI nhanh không cần API. Tiện ích Chrome, OpenAI."
+   },
+   "extName": {
+      "description": "Tiện ích mở rộng Chrome để tích hợp thanh bên ChatGPT",
+      "message": "Thanh bên cho ChatGPT - Truy cập miễn phí"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Chrome-utvidelse for ChatGPT sidepanel med AI-chat",
+      "message": "Rask tilgang til ChatGPT for alle oppgaver. Rask AI-chat uten API. Chrome-utvidelse, OpenAI."
+   },
+   "extName": {
+      "description": "Chrome-utvidelse for ChatGPT sidepanel-integrasjon",
+      "message": "Sidepanel for ChatGPT - Gratis tilgang"
+   }
+}
