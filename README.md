@@ -2,8 +2,6 @@
 
 A Chrome extension that provides quick access to Deepseek AI chat directly from your browser's sidebar.
 
-![Deepseek Sidebar](images/icon128.png)
-
 ## Overview
 
 Deepseek Sidebar is a Chrome extension that allows you to access Deepseek's AI chat capabilities without leaving your current webpage. It integrates seamlessly with Chrome's side panel feature, providing a convenient way to interact with Deepseek while browsing.
