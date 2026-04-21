@@ -13,6 +13,17 @@ Deepseek Sidebar is a Chrome extension that allows you to access Deepseek's AI c
 - Seamless integration with Chrome's side panel
 - Multi-language support
 
+## Tech Stack
+- Framework: Next.js (App Router)
+- UI library: React 19
+- Language: TypeScript
+- Styling: Tailwind CSS
+- Component system: shadcn/ui-style components built on Radix UI primitives
+- Form/validation: React Hook Form + Zod
+- Theming: next-themes
+- Package manager: pnpm
+- Build/runtime: Node.js with Next.js build/dev tooling
+
 ## Installation
 
 ### From Chrome Web Store
